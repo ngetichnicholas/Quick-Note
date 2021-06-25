@@ -1,11 +1,8 @@
-# Quick Note
-## Authors
-[Roney Juma](https://github.com/Roney-juma), [Anne Chege](https://github.com/annechege), [Gabriel Ayuel](https://github.com/ayuelgarang105), and [Nicholas Ngetich](https://github.com/ngetichnicholas)
+# Quick-Note
+## Author
+Nicholas Ngetich
 *****
 This is a Python Flask application that provides a platform for saving notes of things to do at a particular time, resources to check on or research at, things to remember and general notes one wants to have them recorded for future reference
-*****
-## Design
-![alt text](https://github.com/Roney-juma/NoteBook-Flask/blob/master/app/static/images/Design.png)
 *****
 ### Prerequisites
 * Python 3
@@ -16,11 +13,11 @@ This is a Python Flask application that provides a platform for saving notes of 
 ## Setup Instruction
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone $ git clone https://github.com/Roney-juma/NoteBook-Flask.git
+1. Use this command to clone $ git clone https://github.com/ngetichnicholas/Quick-Note.git
 1. This will clone the repositoty into your local folder
 *****
 ### Live Link
-Or you can access the web application directly via this [LIVE LINK]().
+Or you can access the web application directly via this [LIVE LINK](https://quick-note-flask.herokuapp.com/).
 ******
 ## Dependencies
 * Flask Bootstrap
@@ -39,4 +36,8 @@ Or you can access the web application directly via this [LIVE LINK]().
 *****
 ### License
 This project is under:  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+*****
+### Questions?
+Twitter: **[@ngetichnichoh](https://twitter.com/ngetichnichoh)**  
+Email: **[nicholas.ngetich@student.moringaschool.com](mailto:nicholas.ngetich@student.moringaschool.com)**
